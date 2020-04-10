@@ -1,0 +1,1 @@
+paintnet_4.2.10.exe /auto "TARGETDIR=C:\Program Files\Graphics\Paint" DESKTOPSHORTCUT=1
